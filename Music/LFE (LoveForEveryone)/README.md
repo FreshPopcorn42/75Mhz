@@ -1,13 +1,3 @@
-# 75Mhz
-Just about everything
-This is my kind of blog, where I write about potentially anything, but mainly tech.
-
-# Copyright
-You can use all the content from this repository as you whish, as long as you give me the creator credits and you dont use it to harm anyone, if not specified differently.
-
-# Tell me...
-Im always open for advice and other opinions. Consider talking with me on Twitter.
-
 # LFE (LoveForEveryone)
 In this folder I publish my own fabrications in terms of music, which as of now is limited to texts. Those products are not meant to be of high quality.
 Everything thats published under Github.com/FreshPopcorn42/75Mhz/Music/LFE (LoveForEveryone) can be used by anyone to create any art as long as it is following theese guidelines:
