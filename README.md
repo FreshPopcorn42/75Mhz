@@ -1,5 +1,5 @@
 # 75Mhz
-Just about everything
+## Just about everything
 This is my kind of blog, where I write about potentially anything, but mainly tech.
 
 # Copyright
