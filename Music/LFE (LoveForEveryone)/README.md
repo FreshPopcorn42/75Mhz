@@ -6,4 +6,4 @@ Everything thats published under Github.com/FreshPopcorn42/75Mhz/Music/LFE (Love
 3. You are specifically allowed to publish youre art yourself too, no partie is required to give the other one credits
 4. The piece of art does not breake the law, especially not swiss law, since this is from where I will publish it
 5. Using this content, you are obbligated to share your content emediatley and in high quality with me via 75Mhz@protonmail.com and accept the rules specified in this list
-6. These terms can change at any time, which does not affect aortwork that is already published by 75Mhz/LFE
+6. These terms can change at any time, which does not affect artwork that is already published by 75Mhz/LFE
